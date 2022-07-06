@@ -1,0 +1,27 @@
+.resultados {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5em 5em 0 5em;
+}
+
+.card {
+    width: 16%;
+    margin-bottom: 10em;
+}
+
+.card__numero {
+    color: var(--vinho);
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.card__titulo {
+    font-size: 18px;
+    color: var(--azul-escuro);
+    margin: 1em 0;
+}
+
+.card__descricao {
+    font-weight: 400;
+    color: var(--cinza-claro);
+}

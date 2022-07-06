@@ -1,0 +1,30 @@
+.opinioes {
+    background-color: var(--rose);
+    text-align: center;
+    margin: 0 5% 10% 5%;
+}
+
+.opinioes__introducao {
+    color: var(--vinho);
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 3em;
+}
+
+.opinioes__titulo {
+    color: var(--azul-escuro);
+    font-size: 36px;
+    padding: 1em 8em;
+}
+
+.opinioes__nome-pessoa {
+    color: var(--azul-escuro);
+    padding: 1em 0 0.5em 0;
+}
+
+.opinios__cargo-pessoa {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    padding-bottom: 5em;
+}

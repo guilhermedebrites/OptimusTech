@@ -1,0 +1,24 @@
+.banner {
+    text-align: center;
+    margin-top: 5em;
+}
+
+.banner__introducao {
+    color: var(--vinho);
+    font-weight: 600;
+}
+
+.banner__titulo {
+    color: var(--azul-escuro);
+    font-weight: 600;
+    font-size: 48px;
+    margin: .5em 0;
+}
+
+.banner__descricao {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza-claro);
+    width: 45%;
+    margin: 0 auto;
+}

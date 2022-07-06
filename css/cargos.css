@@ -1,0 +1,29 @@
+.cargos {
+    margin-left: 30em;
+    margin-bottom: 5em;
+}
+
+.titulo__cargos {
+    color: var(--azul-escuro);
+    font-size: 20px;
+    margin-bottom: 2em;
+}
+
+.card__cargos {
+    border: 1px solid var(--branco-claro);
+    border-radius: 16px;
+    margin-right: 30em;
+    margin-bottom: 2em;
+}
+
+.titulo__card-cargos {
+    font-size: 18px;
+    color: var(--azul-escuro);
+    padding: 1em 0 0 1em;
+}
+
+.horario__trabalho-cargos, .faixa__salarial-cargos {
+    color: var(--cinza-claro);
+    display: inline-block;
+    padding: 2em 1em 1em 1.1em;
+}

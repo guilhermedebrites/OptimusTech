@@ -1,0 +1,9 @@
+.rodape {
+    text-align: center;
+    margin: 5em 0;
+}
+
+.rodape__direitos {
+    font-weight: 400;
+    color: var(--rodape);
+}
